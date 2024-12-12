@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mosquito>
+    <CWeaponInfo>
+        <Name>weapon_pistol_m1899</Name>
+        <!-- <ShortArmHolsterDOF \> -->
+        <ShortArmHolsterDOF value="2" />
+    </CWeaponInfo>
+</mosquito>
